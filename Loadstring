@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/NICKISBAD/NIX-HUB/main/KeySystem?token=GHSAT0AAAAAAB3EE2PKW64UC3DUPENZDPNMY5VUIZA
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NICKISBAD/NIX-HUB/main/KeySystem?token=GHSAT0AAAAAAB3EE2PKW64UC3DUPENZDPNMY5VUIZA"))()
